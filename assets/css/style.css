@@ -41,6 +41,8 @@ a:hover {
   margin-bottom:  5px;
 }
 
+/* form end */
+
 
 .p-r {
   position: relative;
@@ -65,7 +67,7 @@ a:hover {
 }
 
 .logo a span{
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
   font-size: 40px;
   color: yellow;
 }
